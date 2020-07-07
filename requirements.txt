@@ -1,0 +1,9 @@
+requirement:jupiter notebook
+
+install the below packages through the prompt you are using:
+1.numpy
+2.opencv-python
+3.keras
+4.import-ipynb
+5.scipy
+6.tensor flow
